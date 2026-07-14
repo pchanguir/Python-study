@@ -28,5 +28,5 @@ class Caminhao(Automovel):
     pass
 
 c1 = Carro('Renault', 2018, 'TTN9D56')
-
+c1.add_km(1450)
 print(c1)
